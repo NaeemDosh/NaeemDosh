@@ -116,6 +116,44 @@ availability: Open for freelance / contract work
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
 </p>
 
+### Email Infrastructure & Deliverability
+<p>
+  <img src="https://img.shields.io/badge/AWS%20SES-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20ACS%20Email-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20365%20Mail-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange%20Online-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mailgun-F06B66?style=for-the-badge&logo=mailgun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postmark-FFDE34?style=for-the-badge&logo=postmark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon%20WorkMail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Mailcow-D4145A?style=for-the-badge&logo=mailcow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postfix-000000?style=for-the-badge&logo=postfix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dovecot-000000?style=for-the-badge&logo=dovecot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenDKIM-003366?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rspamd-FF6600?style=for-the-badge&logo=mail&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOGo-2A6496?style=for-the-badge&logo=mail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zimbra-E32D1C?style=for-the-badge&logo=zimbra&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SMTP%20Relay-4EA94B?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bulk%20Email-2088FF?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPF-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DKIM-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DMARC-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MTA--STS-555555?style=for-the-badge&logo=mail&logoColor=white" />
+  <img src="https://img.shields.io/badge/BIMI-FF9900?style=for-the-badge&logo=mail&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARC-555555?style=for-the-badge&logo=mail&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare%20DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DNS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon%20Pinpoint-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
 ### Messaging, Streaming & Queues
 <img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" />
 <p>
@@ -266,6 +304,20 @@ availability: Open for freelance / contract work
 - CIS-CAT Pro · Tenable · Qualys
 - AWS Security Hub posture
 - Generic webhook / REST intake
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="3">
+
+**Email Infrastructure & Deliverability**
+- **Transactional & bulk senders:** AWS SES · Azure Communication Services (ACS Email) · SendGrid · Mailgun · Postmark · Amazon Pinpoint · Mailchimp
+- **Self-hosted mail stacks:** Mailcow · Postfix · Dovecot · OpenDKIM · Rspamd · SOGo · Zimbra
+- **Microsoft mail:** Microsoft 365 · Exchange Online · ACS SMTP relay · domain verification and consent flows
+- **Bulk mail operations:** domain + mailbox provisioning at scale · warm-up strategies · rate-limit / throttle tuning · bounce and complaint handling · suppression lists
+- **Authentication & deliverability:** SPF · DKIM · DMARC (p=reject rollout) · MTA-STS · BIMI · ARC · TLS-RPT · reverse DNS · DNSBL / blocklist remediation
+- **DNS providers:** Cloudflare · Route 53 · Azure DNS (bulk record automation via APIs)
+- **Automation:** Python scripts for mailbox creation, DNS record batching, domain verification (Azure/Mailcow/Cloudflare APIs)
 
 </td>
 </tr>
