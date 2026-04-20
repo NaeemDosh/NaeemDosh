@@ -42,20 +42,102 @@ availability: Open for freelance / contract work
 
 ## Tech Stack
 
-### Cloud, DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,nginx,githubactions,cloudflare&theme=dark" />
+### Cloud Providers
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,digitalocean,heroku,vercel,netlify,firebase&theme=dark" />
+
+### Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+</p>
+
+### Infrastructure as Code & Config Management
+<img src="https://skillicons.dev/icons?i=terraform,ansible,pulumi,vagrant&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge&logo=nomad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black" />
+  <img src="https://img.shields.io/badge/SaltStack-57BCAD?style=for-the-badge&logo=saltstack&logoColor=white" />
+</p>
+
+### CI / CD
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,circleci,bitbucket&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drone%20CI-212121?style=for-the-badge&logo=drone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
+
+### Monitoring, Logging & Observability
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+</p>
+
+### Security, Scanning & Secrets
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare%20WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
+
+### Web Servers, Proxies & Networking
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/HAProxy-7A1FA2?style=for-the-badge&logo=haproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
+</p>
+
+### Messaging, Streaming & Queues
+<img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white" />
+</p>
+
+### Shell, OS & Scripting
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,powershell&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,python,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,python,go,graphql&theme=dark" />
 
 ### Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,sqlite,dynamodb,elasticsearch&theme=dark" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
 
-### Testing, Tooling & Monitoring
-<img src="https://skillicons.dev/icons?i=jest,git,github,vscode,postman,grafana,prometheus&theme=dark" />
+### Testing, Tooling & Dev
+<img src="https://skillicons.dev/icons?i=jest,cypress,postman,git,github,vscode&theme=dark" />
 
 </div>
 
