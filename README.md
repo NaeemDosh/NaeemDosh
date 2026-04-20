@@ -1,129 +1,153 @@
-<h1 align="center">Hi, I'm Naeem</h1>
-<h3 align="center">DevOps Engineer & Full-Stack Developer — Islamabad, Pakistan</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AWS+%7C+Terraform+%7C+Node.js+%7C+Next.js;Building+forensic-grade+compliance+SaaS;Essential+Eight+%7C+CIS+Benchmarks+%7C+WORM+Ledgers;Secure-by-default.+Audit-first.+Tenant-isolated." alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Naeem%20Dosh&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Security&descAlignY=60&descSize=18)
+
+<a href="https://github.com/NaeemDosh">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+forensic-grade+compliance+SaaS;AWS+%7C+Terraform+%7C+Node.js+%7C+Next.js;Essential+Eight+%7C+CIS+Benchmarks+%7C+WORM+Ledgers;Secure-by-default.+Audit-first.+Tenant-isolated." alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NaeemDosh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/NaeemDosh?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/NaeemDosh?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaeemDosh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.fiverr.com/naeem_devops"><img src="https://img.shields.io/badge/Fiverr-naeem__devops-1DBF73?style=flat&logo=fiverr&logoColor=white" /></a>
-  <a href="mailto:m.naeem.uet.cs@gmail.com"><img src="https://img.shields.io/badge/Email-m.naeem.uet.cs%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="mailto:m.naeem.uet.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.fiverr.com/naeem_devops"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="https://github.com/NaeemDosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-4ea94b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
 
 ---
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
 ## About Me
 
-- Currently building **APEXLyn Evidence-Led Compliance Engine** — forensic-grade SaaS for Essential Eight and CIS Benchmark compliance on AWS Sydney
-- Deep focus on **security, compliance, and auditable systems** — WORM storage, immutable hash chains, PostgreSQL Row-Level Security, deny-by-default RBAC
-- Passion for **multi-tenant SaaS** with strict isolation: per-tenant hash chains, JWT-scoped tenant context, injection and isolation test suites
-- Open to freelance and contract work — available on Fiverr as **naeem_devops**
+```yaml
+name:         Naeem Dosh
+role:         DevOps Engineer & Full-Stack Developer
+location:     Gilgit Plaza, Barakahu, Islamabad, Pakistan
+current:      APEXLyn Evidence-Led Compliance Engine
+focus:        AWS security, compliance automation, auditable SaaS
+stack:        AWS · Terraform · Node.js · Next.js · PostgreSQL
+specialty:    WORM ledgers, hash chains, Row-Level Security, RBAC
+frameworks:   Essential Eight (L1/L2/L3), CIS Benchmarks
+region:       ap-southeast-2 (AU data residency)
+availability: open for freelance / contract work
+```
+
+<br clear="both" />
 
 ---
+
+<div align="center">
 
 ## Tech Stack
 
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-**AWS services:** ECS Fargate · RDS PostgreSQL Multi-AZ · S3 Object Lock (WORM) · KMS CMK · SQS FIFO · EventBridge · Security Hub · Config · CloudTrail · WAF · IAM · SecretsManager · CloudWatch · SES · VPC · Route 53
+### Cloud, DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,nginx,githubactions,cloudflare&theme=dark" />
 
 ### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,python,graphql&theme=dark" />
 
-### Databases & Queues
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-</p>
+### Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,sqlite&theme=dark" />
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
 
-### Security & Compliance
-- **Frameworks:** Essential Eight L1/L2/L3 (all 8 strategies) · CIS Benchmarks (M365, Chrome, Win11, Server 2022) · ISO 27001 awareness · NIST CSF 2.0 awareness
-- **AuthN/AuthZ:** OAuth 2.0 · JWT (tenant context from token only) · RBAC (deny-by-default) · TOTP MFA · WebAuthn/FIDO2
-- **Data protection:** KMS SSE-KMS encryption at rest · TLS 1.3 in transit · S3 Object Lock (Compliance mode, 7-year retention)
-- **Forensic integrity:** SHA-256 hash chains · genesis-block enforcement · WORM commit order (S3 → hash → event row → ledger block → event emission)
-- **Privacy:** PII classification and redaction pipelines · AU-only data residency
-- **Audit:** Immutable audit trail · per-tenant hash chain isolation · verification endpoints · injection and tenant-isolation test suites
+### Testing, Tooling & Monitoring
+<img src="https://skillicons.dev/icons?i=jest,git,github,vscode,postman,grafana,prometheus&theme=dark" />
 
-### Integrations
-- Microsoft Graph API (M365, OAuth flow)
-- Active Directory / LDAP
-- CIS-CAT Pro · Tenable/Nessus · Qualys (JSON evidence ingestion)
-- AWS Security Hub / Config / CloudTrail posture ingestion
-- Generic webhook and REST evidence intake
-
-### Testing & Tooling
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-  <img src="https://img.shields.io/badge/LocalStack-4B3BFF?style=for-the-badge&logo=localstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## What I Work On
+## What I Build
 
-- **Multi-tenant SaaS** with strict tenant isolation (Postgres RLS, per-tenant hash chains, JWT-scoped context)
-- **Evidence and audit systems** — immutable ledgers, WORM storage, chain verification utilities
-- **Compliance automation** — mapping raw telemetry to control statuses (PASS / FAIL / UNKNOWN / NOT_ASSESSED / EXCEPTION)
-- **AWS landing zones** in regulated regions (ap-southeast-2, AU-only data residency)
-- **Secure APIs** — deny-by-default, request-scoped auditing, MFA re-check on sensitive actions
-- **Server-side PDF generation** — forensic reports (p95 < 60s) with Puppeteer
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Cloud & Security Platforms
+- Multi-tenant SaaS on **AWS Sydney (ap-southeast-2)**
+- ECS Fargate, RDS Multi-AZ, S3 Object Lock (WORM)
+- KMS-encrypted pipelines, WAF-protected edge
+- Terraform-managed landing zones
+- AU-only data residency, zero cross-region leak
+
+</td>
+<td width="50%" valign="top">
+
+### Forensic-Grade Evidence Systems
+- SHA-256 hash chains, genesis-block enforcement
+- WORM commit order: S3 → hash → event → ledger
+- Per-tenant chain isolation
+- Immutable audit trails, verification endpoints
+- PII classification and redaction pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Compliance Automation
+- **Essential Eight** L1/L2/L3 (all 8 strategies)
+- **CIS Benchmarks** (M365, Chrome, Win11, Server 2022)
+- Control-state engine: PASS / FAIL / UNKNOWN / NOT_ASSESSED / EXCEPTION
+- Framework mapping engine (E8 ↔ CIS ↔ ISO/NIST awareness)
+- Risk acceptance workflows with expiry and review
+
+</td>
+<td width="50%" valign="top">
+
+### Secure API Design
+- Deny-by-default RBAC on every endpoint
+- JWT with tenant context **from token only**
+- TOTP MFA, MFA re-check for sensitive actions
+- 3-layer idempotency (Redis NX + DB constraint + SQS dedup)
+- Injection and tenant-isolation test suites
+
+</td>
+</tr>
+</table>
 
 ---
+
+## Current Project — APEXLyn
+
+> **Evidence-Led Compliance Engine** — forensic-grade SaaS for Essential Eight and CIS Benchmark compliance. 10-layer reference architecture on AWS Sydney. Connector ingestion for M365 Graph, Active Directory, CIS scans, AWS posture, and generic APIs. Per-tenant hash chains anchored in S3 Object Lock. Server-side PDF reports (p95 < 60s). MSP portfolio dashboard (p95 < 2s at 500 tenants).
+
+---
+
+<div align="center">
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemDosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemDosh&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaeemDosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemDosh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&bg_color=0D1117&title_color=36BCF7" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemDosh&theme=tokyonight" alt="streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemDosh&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaeemDosh&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaeemDosh&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=NaeemDosh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+
+</div>
 
 ---
 
-## Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="mailto:m.naeem.uet.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/naeem_devops"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="https://github.com/NaeemDosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## Let's Work Together
 
-<p align="center"><i>Open to freelance contracts in cloud security, compliance engineering, AWS platform work, and full-stack development.</i></p>
+<p>Open to freelance contracts in <b>cloud security</b>, <b>compliance engineering</b>, <b>AWS platform work</b>, and <b>full-stack development</b>.</p>
+
+<a href="mailto:m.naeem.uet.cs@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.fiverr.com/naeem_devops"><img src="https://img.shields.io/badge/Hire%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
