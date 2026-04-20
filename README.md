@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Naeem%20Dosh&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Security&descAlignY=60&descSize=18)
 
 <a href="https://github.com/NaeemDosh">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+forensic-grade+compliance+SaaS;AWS+%7C+Terraform+%7C+Node.js+%7C+Next.js;Essential+Eight+%7C+CIS+Benchmarks+%7C+WORM+Ledgers;Secure-by-default.+Audit-first.+Tenant-isolated." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=DevOps+Engineer+%7C+Full-Stack+Developer;AWS+%7C+Terraform+%7C+Node.js+%7C+Next.js;Cloud+Security+%7C+Compliance+%7C+Automation;Secure-by-default.+Audit-first.+Scalable." alt="Typing SVG" />
 </a>
 
 <p>
@@ -15,27 +15,23 @@
 <a href="mailto:m.naeem.uet.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.fiverr.com/naeem_devops"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 <a href="https://github.com/NaeemDosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-4ea94b?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
 ---
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="right" height="210" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
 ## About Me
 
 ```yaml
-name:         Naeem Dosh
 role:         DevOps Engineer & Full-Stack Developer
-location:     Gilgit Plaza, Barakahu, Islamabad, Pakistan
-current:      APEXLyn Evidence-Led Compliance Engine
-focus:        AWS security, compliance automation, auditable SaaS
+focus:        Cloud security · Compliance automation · Auditable SaaS
 stack:        AWS · Terraform · Node.js · Next.js · PostgreSQL
-specialty:    WORM ledgers, hash chains, Row-Level Security, RBAC
-frameworks:   Essential Eight (L1/L2/L3), CIS Benchmarks
-region:       ap-southeast-2 (AU data residency)
-availability: open for freelance / contract work
+specialty:    WORM ledgers · Hash chains · Row-Level Security · RBAC
+frameworks:   Essential Eight (L1/L2/L3) · CIS Benchmarks
+approach:     Secure-by-default · Audit-first · Tenant-isolated
+availability: Open for freelance / contract work
 ```
 
 <br clear="both" />
@@ -72,11 +68,11 @@ availability: open for freelance / contract work
 <td width="50%" valign="top">
 
 ### Cloud & Security Platforms
-- Multi-tenant SaaS on **AWS Sydney (ap-southeast-2)**
+- Multi-tenant SaaS on **AWS**
 - ECS Fargate, RDS Multi-AZ, S3 Object Lock (WORM)
 - KMS-encrypted pipelines, WAF-protected edge
 - Terraform-managed landing zones
-- AU-only data residency, zero cross-region leak
+- Region-scoped data residency
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +92,7 @@ availability: open for freelance / contract work
 ### Compliance Automation
 - **Essential Eight** L1/L2/L3 (all 8 strategies)
 - **CIS Benchmarks** (M365, Chrome, Win11, Server 2022)
-- Control-state engine: PASS / FAIL / UNKNOWN / NOT_ASSESSED / EXCEPTION
+- Control-state engine (PASS / FAIL / UNKNOWN / NOT_ASSESSED / EXCEPTION)
 - Framework mapping engine (E8 ↔ CIS ↔ ISO/NIST awareness)
 - Risk acceptance workflows with expiry and review
 
@@ -116,9 +112,82 @@ availability: open for freelance / contract work
 
 ---
 
-## Current Project — APEXLyn
+## Core Skills
 
-> **Evidence-Led Compliance Engine** — forensic-grade SaaS for Essential Eight and CIS Benchmark compliance. 10-layer reference architecture on AWS Sydney. Connector ingestion for M365 Graph, Active Directory, CIS scans, AWS posture, and generic APIs. Per-tenant hash chains anchored in S3 Object Lock. Server-side PDF reports (p95 < 60s). MSP portfolio dashboard (p95 < 2s at 500 tenants).
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Cloud (AWS)**
+- ECS Fargate · ECR
+- RDS PostgreSQL Multi-AZ
+- S3 Object Lock / WORM
+- KMS CMK · SecretsManager
+- SQS FIFO · EventBridge
+- Security Hub · Config · CloudTrail
+- WAF · IAM · VPC · Route 53
+- CloudWatch · SES
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Data**
+- Node.js · Express · TypeScript
+- REST and GraphQL APIs
+- PostgreSQL (RLS, indexing, migrations)
+- Redis (idempotency, caching)
+- Queue design (FIFO, dedup)
+- Puppeteer server-side PDFs
+- Zod validation · Jest testing
+
+</td>
+<td valign="top" width="33%">
+
+**Security & Compliance**
+- Essential Eight · CIS Benchmarks
+- OAuth 2.0 · JWT · RBAC
+- TOTP MFA · WebAuthn / FIDO2
+- KMS SSE-KMS · TLS 1.3
+- Immutable hash-chain ledgers
+- Audit trails, verification APIs
+- PII classification & redaction
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**DevOps & Infra**
+- Terraform (modular IaC)
+- Docker · Docker Compose
+- LocalStack for local AWS
+- GitHub Actions CI/CD
+- Nginx · Linux admin
+- Bash scripting · automation
+
+</td>
+<td valign="top">
+
+**Frontend**
+- React · Next.js 14 (App Router)
+- TypeScript · Tailwind CSS
+- Server-side rendering
+- Responsive dashboards
+- REST / GraphQL consumption
+
+</td>
+<td valign="top">
+
+**Integrations**
+- Microsoft Graph (M365, OAuth)
+- Active Directory / LDAP
+- CIS-CAT Pro · Tenable · Qualys
+- AWS Security Hub posture
+- Generic webhook / REST intake
+
+</td>
+</tr>
+</table>
 
 ---
 
